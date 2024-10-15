@@ -1,3 +1,3 @@
-# BeNeDiff
+## Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models [NeurIPS'2024]
 
-Codes coming soon!
+Official Repo
